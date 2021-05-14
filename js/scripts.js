@@ -54,8 +54,6 @@
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
 })(jQuery);
-AOS.init({
-    duration: 600,
-  })
+
   
 // End of use strict
